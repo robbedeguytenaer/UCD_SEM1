@@ -8,7 +8,7 @@
 ## Samenvatting
 Moderne auto's worden steeds meer uitgerust met slimme dashboards die een veelheid aan functies en aanpasbare interacties bieden. Een goed voorbeeld van deze trend is Tesla, met één groot touchscreen en slechts twee knoppen op het stuur. Hoewel dit ontwerp er geavanceerd uitziet, roept het vragen op over de veiligheid en wenselijkheid ervan. Riskeren we ons aan meer afleiding door dergelijke minimalistische interfaces te omarmen? Of, op welke (gebruiksvriendelijke) manier kunnen we de functies in het dashboard bedienen zonder onze focus op de weg te verliezen?
 Uit enkele _contextual inquiries_ is gebleken dat het niet het touchscreen zelf is die voor de afleiding zorgt, maar het feit dat je geen tactiele feedback krijgt bij het bedienen van een functie. Verschillende artikels en wetenschappelijke onderzoeken bevestigen dat.
-Onze oplossing is gebasseerd 
+Onze oplossing is gebasseerd op de magnetische Surface Dial van Microsoft.
 
 
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
