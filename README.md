@@ -19,6 +19,10 @@ In tegenstelling tot de standaard fysieke knoppen kun je met zo'n dial toch een 
 
 ## Introductie
 
+In de hedendaagse auto's zijn touchscreens de standaard geworden, waarbij bestuurders verschillende functies bedienen, variërend van navigtaie tot entertainment. Echter, het toenemende gebruik van touchscreens in auto's heeft zorgen gewekt over de veiligheid, met name de visuele afleiding die het met zich meebrengt. Een artikel van de VRT[^1] benadrukt dit probleem en stelt dat het bedienen van touchscreens in de auto drie keer gevaarlijker kan zijn dan rijden onder invloed. Het vermindert aanzienlijk de reactieijd van bestuurders en het risico op ongevallen vergroot.
+> Alternatieven zijn bediening via knoppen op je stuur of schermen die synthetische feedback leveren, zoals een trilfunctie op je smartphone, als bevestiging dat je opdracht is uitgevoerd zodat visuele verificatie niet meer nodig is.
+
+
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
@@ -63,6 +67,6 @@ Definieer de belangrijkste designbeslissingen
 Max. 500 woorden
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+[^1]: https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
 
 ## Bijlagen
