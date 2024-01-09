@@ -106,9 +106,9 @@ Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze dia
 </p>
 
 <p>
-  <img src="" width="33%"/>
-  <img src="" width="33%"/>
-  <img src="" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/fbff5f1c-9422-4b96-bba5-be57ad6b838f" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c91aef7e-3df0-4721-a1b1-54d7d1c045e5" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c19bb943-af3f-46c2-a78b-8dfcc9e7fd3e" width="33%"/>
 </p>
   
 <p>
@@ -117,7 +117,6 @@ Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze dia
   <img src="" width="24.5%"/>
   <img src="" width="24.5%"/>
 </p>
-
 
 
 
