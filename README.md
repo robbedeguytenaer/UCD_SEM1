@@ -46,6 +46,7 @@ Een helder geformuleerde "how might we" bekomen.
 Door middel van contextual inquiries kunnen we huidige gebruikspatronen in hun natuurlijke context begrijpen, pijnpunten definiëren en een beter begrip krijgen van de contextuele randvoorwaarden voor ideeën en opportuniteiten.
 
 Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We startten met een introductie om een beter beeld te krijgen van de deelnemer. Daarna werd hem/haar gevraagd verschillende dingen te doen; zijn/haar favoriete liedje opleggen, volume verhogen, verwarming verlagen, navigeren met de gps... We hebben alles geobserveerd en een tabel opgesteld met de verschillende functies en hoe ze bediend worden.
+
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/8aae7aa7-7bcd-4c1c-bbfc-2a0e0ae37a1a" width="49%"/>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/e852cd28-31a8-4f7b-8c11-9bdf23cd5b85" width="49%"/>
@@ -66,10 +67,12 @@ Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We
 Om de markt te analyseren maken we gebruik van benchmarking omdat heel veel designkeuzes al succesvol zijn opgelost door anderen. Je hoeft niet alles opnieuw te onderzoeken, maar door bestaande oplossingen aandachtig te bestuderen kunnen we focussen op meer belangrijke onbekende factoren.
 
 Het probleem werd opgesplitst in twee fundamentele deelproblemen. Hoe kunnen we informatie weergeven en hoe kunnen we bepaalde functies bedienen? Voor beide werden de voor- en nadelen op een rijtje gezet. Daarna werd alles samengegoten in een overzichtelijke problem-solution matrix.
+
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/bbfada7e-b3ca-40c8-96b6-b0b40c4434f0" width="49%"/>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/4d45a730-82ee-462b-829c-040572d9b47c" width="49%"/>
 </p>
+
 <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/1f392304-7c29-4ec8-93da-6fe266cbce7e"/>
 
 ### Conclusies & implicaties
@@ -96,6 +99,28 @@ Tot een conceptueel ontwerp komen.
 Door het uitvoeren van concepttesten kunnen we ons concept evalueren met echte gebruikers. Hierdoor kunnen we ook het gedrag van de gebruiker tijdens de interactie observeren en analyseren.
 
 Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze dial. Welke grootte? Welke vorm? Welk materiaal? Na een korte introductie gaven we elke deelnemer een stuk klei/plasticine. We gaven hen de opdracht om hun ideale dial te ontwerpen en hierbij te variëren in vorm, grootte, afwerking... Hierbij moest de focus op het praktische aspect liggen, minder op het esthetische. Nadat elke deelnemer zijn of haar ideale dial gemaakt had gingen we over naar het tweede deel van de test. We ontwikkelden drie sensorial boards: 6 verschillende groottes, 9 vormvarianten en 6 verschillende materialen. Elke deelnemer kreeg de kans elk bord te exploreren door aan de verschillende modellen te voelen. Per bord moesten de deelnemers hun voorkeur weergeven in een top 3. Alle ruwe data van deze testen werd verzameld door middel van gebruikersformulieren.
+
+<p>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/be6cc5d6-7650-431e-9ba6-cfa813c49f62" width="49%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/0cb97803-6960-4495-a09b-ec6937142b72" width="49%"/>
+</p>
+
+<p>
+  <img src="" width="33%"/>
+  <img src="" width="33%"/>
+  <img src="" width="33%"/>
+</p>
+  
+<p>
+  <img src="" width="24.5%"/>
+  <img src="" width="24.5%"/>
+  <img src="" width="24.5%"/>
+  <img src="" width="24.5%"/>
+</p>
+
+
+
+
 #### User interface
 
 ### Conclusies & implicaties
