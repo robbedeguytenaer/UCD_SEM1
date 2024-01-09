@@ -134,15 +134,15 @@ Aan de hand van drie schermgroottes gevisualiseerd op dibond (een glad aluminium
 Na een korte toelichting van het concept volgden er enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarnaast mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de dial in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
 <p>
-  <img src="![Interface1 jpeg](https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/bbf31e88-9f21-40d6-b807-d79c55053d1c)" width="33%"/>
-  <img src="![Interface6](https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/8d309d77-48e4-4fa9-9264-1b4596134879)" width="33%"/>
-  <img src="![Interface5](https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/5d88d351-e011-4a49-9bc2-1caf032941dd)" width="33%"/>
+  <img src="!https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/bbf31e88-9f21-40d6-b807-d79c55053d1c" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/8d309d77-48e4-4fa9-9264-1b4596134879" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/5d88d351-e011-4a49-9bc2-1caf032941dd" width="33%"/>
 </p>
 
 <p>
-  <img src="![Interface4](https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/2ce8c67c-8c63-42d6-ad18-1f08af2c26ce)" width="33%"/>
-  <img src="![Interface3](https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11bf6835-41e6-42b0-a461-ed3afd08450f)" width="33%"/>
-  <img src="![Interface2](https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/367ee800-9be0-4f4e-aaca-302484eb9e2f)" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/2ce8c67c-8c63-42d6-ad18-1f08af2c26ce" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11bf6835-41e6-42b0-a461-ed3afd08450f" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/367ee800-9be0-4f4e-aaca-302484eb9e2f" width="33%"/>
 
 </p>
 > [!NOTE]
