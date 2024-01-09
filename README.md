@@ -147,19 +147,15 @@ Samengevat:
 ## Bill of materials
 > [!NOTE]
 > aanvullen
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+- touchscreen (oude tablet)
+- werkende interface
+- rotary encoder
+- rond lcd schermpje inclusief RPI (HyperPixel 2.1 Round)
 
 ## Kritische reflectie
 > [!NOTE]
-Max. 500 woorden
+> Max. 500 woorden
+> iets over nog een gebruikerstest met vibratie van de knop
 
 ## Bijlagen
 
