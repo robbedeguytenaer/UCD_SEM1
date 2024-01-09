@@ -32,7 +32,8 @@ Randvoorwaarden:
 - gebruiksvriendelijk
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+> [!NOTE]
+> Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 ## Discovery
 Tijdens de ontdekkingsfase streven we ernaar om een helder beeld te krijgen van de probleemruimte en op zoek te gaan naar opportuniteiten. Deze opportuniteiten ontstaan zowel uit gebruikersinzichten, als uit een analyse van de markt. Het probleem waarop we focussen wordt met andere woorden scherpgesteld.
@@ -127,11 +128,17 @@ Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van 
 </p>
 
 #### User interface
+> [!NOTE]
+> uitleg test user interface
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+
+> [!NOTE]
+> Definieer de belangrijkste designbeslissingen (van deel user interface)
 
 ## Bill of materials
+> [!NOTE]
+> aanvullen
 - Welk
 - Materiaal
 - Heb
@@ -143,6 +150,7 @@ Definieer de belangrijkste designbeslissingen
 - Prototype
 
 ## Kritische reflectie
+> [!NOTE]
 Max. 500 woorden
 
 ## Bijlagen
