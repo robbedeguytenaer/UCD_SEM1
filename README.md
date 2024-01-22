@@ -173,13 +173,12 @@ De dial moet ook naast het scherm bedienbaar zijn zodat je niet met heel je arm 
 
 
 ## Bill of materials
-> [!NOTE]
-> aanvullen
 - touchscreen (oude tablet)
 - werkende interface
 - rotary encoder
 - rond lcd schermpje inclusief RPI (HyperPixel 2.1 Round)
 - HUD
+- 3D-printmateriaal
 
 ## Kritische reflectie
 > [!NOTE]
