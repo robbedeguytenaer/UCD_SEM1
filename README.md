@@ -171,6 +171,11 @@ Uit de interfacetest blijkt dat onderstaande interface als het meest aangenaam, 
 Gebruikers beschouwen de mediummaat van het touchscreen als meest ideaal. Het is noodzakelijk dat die niet te klein is om gemakkelijk met de dial te kunnen interageren op verschillende plaatsen op het scherm. De belangrijkste functies zijn vooral de standaardfuncties zoals temperatuurregeling, muziek, volume en navigatie. Met zes mogelijke posities op ons scherm, en dus zes bedienbare functies tijdens het rijden, zitten we goed.
 Daarnaast geeft een gebruiker aan dat de dial ook naast het scherm bedienbaar moet zijn zodat je niet telkens met heel je arm tot aan het scherm dient te strekken. Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
 
+<p>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/ae366eeb-a956-4330-a032-dcf6c77f496e" width="49%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/62c4561d-bfc4-4668-9827-9c784b2e44a1" width="49%"/>
+</p>
+
 
 ## Bill of materials
 - touchscreen (oude tablet)
