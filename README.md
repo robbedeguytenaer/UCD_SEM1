@@ -130,10 +130,10 @@ Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van 
 </p>
 
 #### User interface
-Uit de eindscores van de eerste gebruikerstesten konden we met de - volgens de eerste gebruikerstesten - meest ideale dialvorm opnieuw naar de gebruiker trekken. Deze keer werd bewust gekozen voor nieuwe testpersonen. Door het kiezen van nieuwe testpersonen kunnen er nieuwe visies ontstaan en kunnen we ook al dan niet bevestigd krijgen of de gebruiker ons concept begrijpt.
-Het doel van deze tweede gebruikerstest is het kiezen van een interface waarmee we in het tweede semester aan de slag kunnen om een werkend interface te kunnen maken die start vanuit de bediening van de dial. Met deze test richten we ons op de conceptuele interactie van de dial en een interface en de functies die de dial moet kunnen bedienen, in het tweede semester gaan we die functioneel en interactief op punt gaan zetten.
-Aan de hand van drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunsstofplaat), zes verschillende interfaces geprint op papier, een werkend interactie-interface gemaakt in Figma en natuurlijk de dial trokken we naar de gebruiker.
-Na een korte toelichting van het concept volgden er enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarnaast mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de dial in hun achterhoofd.
+Uit de eindscores van de eerste gebruikerstesten konden we met de meest ideale dialvorm opnieuw naar de gebruiker trekken. Deze keer werd bewust gekozen voor nieuwe testpersonen. Door het kiezen van nieuwe testpersonen kunnen er nieuwe visies ontstaan en kunnen we al dan niet bevestigd krijgen of de gebruiker ons concept begrijpt.
+Het doel van deze tweede gebruikerstest is het kiezen van een interface waarmee we in het tweede semester aan de slag kunnen om een werkende interface uit te werken, die start vanuit de bediening van de dial. Met deze test richten we ons op de conceptuele interactie van de dial en een interface en de functies die de dial moet kunnen bedienen. In het tweede semester zetten we deze resultaten om in een functioneel en interactief ontwerp.
+We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunsstofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de dial.
+Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarnaa mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de dial in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/bbf31e88-9f21-40d6-b807-d79c55053d1c" width="33%"/>
@@ -147,12 +147,12 @@ Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten make
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/367ee800-9be0-4f4e-aaca-302484eb9e2f" width="33%"/>
 </p>
 
-Uit de test bleek dat het volgende interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt.
+Uit de test bleek dat de volgende interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt.
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/ae366eeb-a956-4330-a032-dcf6c77f496e"/>
 </p>
 Als schermgrootte werd de mediummaat als meest ideaal aangegeven.
-Als we de testpersonen vroegen naar welke functie's voor hen het belangrijkste zijn en waarom, kwamen er vooral de standaardfuncties naar boven zoals temperatuurregeling, muziek, volume en gps.
+Als we de testpersonen vroegen welke functies voor hen het belangrijkste zijn en waarom, kwamen vooral de standaardfuncties naar boven zoals temperatuurregeling, muziek, volume en navigatie.
 
 <img width="738" alt="user tijdens gebruik" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/62c4561d-bfc4-4668-9827-9c784b2e44a1">
 
