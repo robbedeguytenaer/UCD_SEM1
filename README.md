@@ -177,6 +177,7 @@ De dial moet ook naast het scherm bedienbaar zijn zodat je niet met heel je arm 
 - werkende interface
 - rotary encoder
 - rond lcd schermpje inclusief RPI (HyperPixel 2.1 Round)
+- haptische motor
 - HUD
 - 3D-printmateriaal
 
