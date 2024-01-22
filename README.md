@@ -133,7 +133,7 @@ Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van 
 Uit de eindscores van de eerste gebruikerstesten konden we met de meest ideale dialvorm opnieuw naar de gebruiker trekken. Deze keer werd bewust gekozen voor nieuwe testpersonen. Door het kiezen van nieuwe testpersonen kunnen er nieuwe visies ontstaan en kunnen we al dan niet bevestigd krijgen of de gebruiker ons concept begrijpt.
 Het doel van deze tweede gebruikerstest is het kiezen van een interface waarmee we in het tweede semester aan de slag kunnen om een werkende interface uit te werken, die start vanuit de bediening van de dial. Met deze test richten we ons op de conceptuele interactie van de dial en een interface en de functies die de dial moet kunnen bedienen. In het tweede semester zetten we deze resultaten om in een functioneel en interactief ontwerp.
 We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunsstofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de dial.
-Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarnaa mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de dial in hun achterhoofd.
+Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de dial in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/bbf31e88-9f21-40d6-b807-d79c55053d1c" width="33%"/>
@@ -167,9 +167,9 @@ Samengevat:
 - geribbelde contour
 - rubberachtig materiaal (nog te exploreren via 3D-printen)
 
-Uit de interfacetest blijkt dat gebruikers graag een modern en intuïtief touchscreen hebben. De interactie met de dial moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de dial en het scherm te begrijpen.
-Het is wel noodzakelijk dat het touchscreen niet te klein is om gemakkelijk met de dial te kunnen interageren op verschillende plaatsen op het scherm.
-De dial moet ook naast het scherm bedienbaar zijn zodat je niet met heel je arm tot aan het scherm telkens dient te strekken. Het is ook belangrijk rekening te houden met verschillende armlengtes, er dus voor zorgen dat het scherm niet te ver zit en gericht is naar de bestuurder.
+Uit de interfacetest blijkt dat onderstaande interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt. De interactie met de dial moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de dial en het scherm te begrijpen.
+Gebruikers beschouwen de mediummaat van het touchscreen als meest ideaal. Het is noodzakelijk dat die niet te klein is om gemakkelijk met de dial te kunnen interageren op verschillende plaatsen op het scherm. De belangrijkste functies zijn vooral de standaardfuncties zoals temperatuurregeling, muziek, volume en navigatie. Met zes mogelijke posities op ons scherm, en dus zes bedienbare functies tijdens het rijden, zitten we goed.
+Daarnaast geeft een gebruiker aan dat de dial ook naast het scherm bedienbaar moet zijn zodat je niet telkens met heel je arm tot aan het scherm dient te strekken. Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
 
 
 ## Bill of materials
