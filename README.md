@@ -150,10 +150,7 @@ Uit de test bleek dat het volgende interface als het meest aangenaam, modern, in
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/ae366eeb-a956-4330-a032-dcf6c77f496e"/>
 </p>
 Als schermgrootte werd de mediummaat als meest ideaal aangegeven.
-Als we de testpersonen vroegen naar welke functie's voor hen het belangrijkste zijn en waarom, kwamen er vooral de standaardfuncties naar boven zoals temperatuurregeling, muziek, volume en 
-> [!NOTE]!
-
-> uitleg test user interface
+Als we de testpersonen vroegen naar welke functie's voor hen het belangrijkste zijn en waarom, kwamen er vooral de standaardfuncties naar boven zoals temperatuurregeling, muziek, volume en gps.
 
 ### Conclusies & implicaties
 Uit de klei-test blijkt dat gebruikers een voorkeur hadden voor kleinere knoppen, echter vermelden een aantal deelnemers dat hun voorkeur gaat naar een knop met voldoende volume en grip. De groottes variëren niet zo heel veel, maar de vormen wel, gaande van klassieke cilinders tot schuivers en bolvormige knoppen. Een interessant suggestie is een conische knop met het smallere oppervlak op het scherm. Dit zorgt niet enkel voor een betere grip maar geeft ook het signaal aan de gebruiker dat de knop verplaatst kan worden. Uit de scoringsmatrix blijkt dat een knop met een diameter van 60 mm en een hoogte van 20 mm het meest geschikt is, ook de licht hogere dial werd positief bevonden. Daarnaast gaat de voorkeur qua vorm naar een gegolfde contour. Op vlak van materiaal preferen de deelnemers een licht indrukbaar materiaal, maar ook de ruwere materialen vallen in de smaak.
