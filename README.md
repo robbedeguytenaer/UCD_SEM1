@@ -176,6 +176,7 @@ Daarnaast geeft een gebruiker aan dat de dial ook naast het scherm bedienbaar mo
 - haptische motor
 - HUD
 - 3D-printmateriaal
+- ...
 
 ## Kritische reflectie
 We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de *dial* en een *head-up-display*. Onze testgebruikers waren alvast enthousiast over het concept en zien duidelijk het potentieel en het achterliggende probleem die zich nu in nieuwe wagens bevindt.
@@ -183,11 +184,10 @@ We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semes
 We blikken terug naar een periode met een effectieve en vloeiende samenwerking en kijken uit om in het tweede semester te werken aan de ontwikkelings- en eindfase. Moesten we de definitiefase opnieuw kunnen doen zouden we tussen de eerste testen met de dialvormen en -groottes iets meer tijd gelaten hebben. Zo zouden we een uitgebreidere interactie kunnen gaan ontwerpen om een tweede maal met een iets realistischer prototype naar de gebruiker te trekken. We hadden graag in deze fase nog getest hoe gebruikers het liefst tactiele feedback ontvangen van de *dial*. Hoe hard en hoe snel moet de vibratie zijn bij het bedienen van de *dial*? 
 Voor de materiaalkeuze van de *dial* trokken we naar enkele gebruikers met een houten plaatje met daarop 6 verschillende materialen. We wouden een diverse keuze aan materialen voorstellen, maar hierop baseerden we ons op gevonden materialen. Graag hadden we eigenlijk wat meer tijd gehad om bijvoorbeeld verschillende 3D-printmaterialen erbij te plaatsen zoals ook poederprints. Of hadden we opzoek kunnen gaan naar speciale en duurzame metalen. In het tweede semester zullen we een definitieve *dial* 3d-printen en zouden we opnieuw naar een beperkte gebruikersgroep kunnen trekken met wat poederprints, zachte prints om nog eens bij een andere groep te polsen welke materialen zij prefereren. 
 
-> [!NOTE]
-> Max. 500 woorden
-> iets over nog een gebruikerstest met vibratie van de knop
-
 ## Bijlagen
+
+> [!NOTE]
+> linkjes naar protocols en reports
 
 ## Bronnen
 [^1]: Beeckman, H. (2021, 11 maart). *Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”.* VRTNWS. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
