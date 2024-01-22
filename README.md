@@ -145,7 +145,7 @@ Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten make
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/367ee800-9be0-4f4e-aaca-302484eb9e2f" width="33%"/>
 </p>
 
-Uit de test bleek dat het volgende interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk beschouwd.
+Uit de test bleek dat het volgende interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt.
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/ae366eeb-a956-4330-a032-dcf6c77f496e"/>
 </p>
