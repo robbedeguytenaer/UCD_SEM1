@@ -165,6 +165,10 @@ Samengevat:
 - geribbelde contour
 - rubberachtig materiaal (nog te exploreren via 3D-printen)
 
+Uit de interfacetest blijkt dat gebruikers graag een modern en intuïtief touchscreen hebben. De interactie met de dial moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de dial en het scherm te begrijpen.
+Het is wel noodzakelijk dat het touchscreen niet te klein is om gemakkelijk met de dial te kunnen interageren op verschillende plaatsen op het scherm.
+De dial moet ook naast het scherm bedienbaar zijn zodat je niet met heel je arm tot aan het scherm telkens dient te strekken. Het is ook belangrijk rekening te houden met verschillende armlengtes, er dus voor zorgen dat het scherm niet te ver zit en gericht is naar de bestuurder.
+
 > [!NOTE]
 > Definieer de belangrijkste designbeslissingen (van deel user interface)
 
