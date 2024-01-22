@@ -182,6 +182,8 @@ De dial moet ook naast het scherm bedienbaar zijn zodat je niet met heel je arm 
 - 3D-printmateriaal
 
 ## Kritische reflectie
+We hebben heel wat bijgeleerd tijdens de ontdekkings- en definitiefase dit semester. We zijn reeds gestart met de eerste prototypes en hebben dankzij onze gebruikerstesten al een concreet beeld hoe we een fysieke interactie tot stand gaan brengen tussen het scherm, de dial en een *head-up-display*. Onze testgebruikers waren alvast enthousiast over het concept en zien duidelijk het potentieel en het achterliggende probleem die zich nu in nieuwe wagens bevindt.
+We blikken terug naar een periode met een effectieve en vloeiende samenwerking en kijken uit om in het tweede semster te werken aan de ontwikkelings- en eindfase. Moesten we de definitiefase opnieuw kunnen doen zouden we na de eerste testen met de dialvormen en -groottes iets meer tijd gelaten hebben. Zo zouden we een uitgebreidere interactie kunnen gaan ontwerpen om een tweede maal met een iets reallistischer prototype naar de gebruiker te trekken. We hadden graag in deze fase nog getest hoe gebruikers het liefst tactiele feedback ontvangen van de dial. Hoe hard en hoe snel moet de vibratie bijvoorbeeld zijn?
 > [!NOTE]
 > Max. 500 woorden
 > iets over nog een gebruikerstest met vibratie van de knop
