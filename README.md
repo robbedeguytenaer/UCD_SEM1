@@ -147,15 +147,6 @@ Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten make
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/367ee800-9be0-4f4e-aaca-302484eb9e2f" width="33%"/>
 </p>
 
-Uit de test bleek dat de volgende interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt.
-<p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/ae366eeb-a956-4330-a032-dcf6c77f496e"/>
-</p>
-Als schermgrootte werd de mediummaat als meest ideaal aangegeven.
-Als we de testpersonen vroegen welke functies voor hen het belangrijkste zijn en waarom, kwamen vooral de standaardfuncties naar boven zoals temperatuurregeling, muziek, volume en navigatie.
-
-<img width="738" alt="user tijdens gebruik" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/62c4561d-bfc4-4668-9827-9c784b2e44a1">
-
 
 ### Conclusies & implicaties
 Uit de klei-test blijkt dat gebruikers een voorkeur hadden voor kleinere knoppen, echter vermelden een aantal deelnemers dat hun voorkeur gaat naar een knop met voldoende volume en grip. De groottes variëren niet zo heel veel, maar de vormen wel, gaande van klassieke cilinders tot schuivers en bolvormige knoppen. Een interessant suggestie is een conische knop met het smallere oppervlak op het scherm. Dit zorgt niet enkel voor een betere grip maar geeft ook het signaal aan de gebruiker dat de knop verplaatst kan worden. Uit de scoringsmatrix blijkt dat een knop met een diameter van 60 mm en een hoogte van 20 mm het meest geschikt is, ook de licht hogere dial werd positief bevonden. Daarnaast gaat de voorkeur qua vorm naar een gegolfde contour. Op vlak van materiaal preferen de deelnemers een licht indrukbaar materiaal, maar ook de ruwere materialen vallen in de smaak.
@@ -172,8 +163,8 @@ Gebruikers beschouwen de mediummaat van het touchscreen als meest ideaal. Het is
 Daarnaast geeft een gebruiker aan dat de dial ook naast het scherm bedienbaar moet zijn zodat je niet telkens met heel je arm tot aan het scherm dient te strekken. Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/ae366eeb-a956-4330-a032-dcf6c77f496e" width="49%"/>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/62c4561d-bfc4-4668-9827-9c784b2e44a1" width="49%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/ae366eeb-a956-4330-a032-dcf6c77f496e" width="49%"/>
 </p>
 
 
