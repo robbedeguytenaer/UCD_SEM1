@@ -171,8 +171,6 @@ Uit de interfacetest blijkt dat gebruikers graag een modern en intuïtief touchs
 Het is wel noodzakelijk dat het touchscreen niet te klein is om gemakkelijk met de dial te kunnen interageren op verschillende plaatsen op het scherm.
 De dial moet ook naast het scherm bedienbaar zijn zodat je niet met heel je arm tot aan het scherm telkens dient te strekken. Het is ook belangrijk rekening te houden met verschillende armlengtes, er dus voor zorgen dat het scherm niet te ver zit en gericht is naar de bestuurder.
 
-> [!NOTE]
-> Definieer de belangrijkste designbeslissingen (van deel user interface)
 
 ## Bill of materials
 > [!NOTE]
@@ -181,6 +179,7 @@ De dial moet ook naast het scherm bedienbaar zijn zodat je niet met heel je arm 
 - werkende interface
 - rotary encoder
 - rond lcd schermpje inclusief RPI (HyperPixel 2.1 Round)
+- HUD
 
 ## Kritische reflectie
 > [!NOTE]
