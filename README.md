@@ -111,11 +111,11 @@ Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze dia
 </p>
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/fbff5f1c-9422-4b96-bba5-be57ad6b838f" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c91aef7e-3df0-4721-a1b1-54d7d1c045e5" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c19bb943-af3f-46c2-a78b-8dfcc9e7fd3e" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/b92d9d28-47f9-425c-8d22-e52728740833" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/7543fa3a-3238-4145-b062-8d649b2974c4" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/7d9ae298-c574-4e09-a875-06955b0f1f41" width="32%"/>
 </p>
-  
+
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/3b04e2db-3944-436a-a286-f12fd0ff7720" width="24.5%"/>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/e968982e-3144-466e-a84e-1ee76f731413" width="24.5%"/>
