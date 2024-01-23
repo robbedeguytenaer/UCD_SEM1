@@ -48,6 +48,7 @@ Tijdens de ontdekkingsfase streven we ernaar om een helder beeld te krijgen van 
 Een helder geformuleerde "how might we" bekomen.
 ### Materiaal & methoden
 - contextual inquiries
+- focus group
 - benchmarking
 ### Resultaten
 #### Contextual inquiries
