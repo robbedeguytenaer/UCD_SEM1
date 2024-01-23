@@ -47,9 +47,6 @@ Wat vinden gebruikers die zich al langere tijd in de probleemruimte bevinden van
 
 We startten met het ontwerp van enkele prototypes van *interfaces* en *dials*. We kregen ook de kans ons concept te gaan voorstellen aan ingenieursstudenten uit Gent die met enkele maatschappelijke bedenkingen kwamen. We optimaliseerden onze prototypes en gingen ook aan de slag met digitale interfaces. Er volgden twee belangrijke gebruikerstesten die leidden tot nieuwe inzichten. Dankzij uitgebreid onderzoek, feedbackmomenten en gebruikerstesten konden we tot een uitgewerkt visueel concept komen.
 
-> [!NOTE]
-> Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
-
 ## Discovery
 Tijdens de ontdekkingsfase streven we ernaar om een helder beeld te krijgen van de probleemruimte en op zoek te gaan naar opportuniteiten. Deze opportuniteiten ontstaan zowel uit gebruikersinzichten, als uit een analyse van de markt. Het probleem waarop we focussen wordt met andere woorden scherpgesteld.
 ### Doelstellingen
