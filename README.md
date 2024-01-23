@@ -139,9 +139,9 @@ Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze *di
 Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van de opgestelde top 3's werden samengegoten in een scoringsmatrix. Prototypes op plaats 1 kregen een score +3, prototypes op plaats 2 kregen een score +2 en prototypes op plaats 3 kregen een score +1. Prototypes waar deelnemers helemaal geen voorkeur voor hadden, kregen een -1. Door de scores voor elk model van alle deelnemers bij elkaar op te tellen, hebben we een eindscore afgeleid. Een hogere eindscore duidde op een gunstigere ervarging.
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/b92d9d28-47f9-425c-8d22-e52728740833" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/7543fa3a-3238-4145-b062-8d649b2974c4" width="31%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/7d9ae298-c574-4e09-a875-06955b0f1f41" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/b92d9d28-47f9-425c-8d22-e52728740833" width="34%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/7543fa3a-3238-4145-b062-8d649b2974c4" width="30%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/7d9ae298-c574-4e09-a875-06955b0f1f41" width="34%"/>
 </p>
 
 #### User interface
