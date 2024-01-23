@@ -33,6 +33,9 @@ Randvoorwaarden:
 - veilig
 - gebruiksvriendelijk
 
+> [!NOTE]
+> Volledige protocollen en reports zijn te vinden onder de bijlagen.
+
 ## Methodologie
 > [!NOTE]
 > Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
