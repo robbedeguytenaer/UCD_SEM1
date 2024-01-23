@@ -166,9 +166,8 @@ Daarnaast geeft een gebruiker aan dat de dial ook naast het scherm bedienbaar mo
 
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/62c4561d-bfc4-4668-9827-9c784b2e44a1" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/ae366eeb-a956-4330-a032-dcf6c77f496e" width="49%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/06f6e012-620e-411b-b870-2c24fe74bff6" width="49%"/>
 </p>
-
 
 ## Bill of materials
 - touchscreen (oude tablet)
