@@ -66,6 +66,8 @@ Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We
 |Answering calls|||X - X - X|
 |Start calls|||X - X|X|
 
+#### Focus Group
+Voor we als team met twee verder gingen had Warre ook al een focusgroep georganisseerd. 
 #### Benchmarking
 Om de markt te analyseren maken we gebruik van benchmarking omdat heel veel designkeuzes al succesvol zijn opgelost door anderen. Je hoeft niet alles opnieuw te onderzoeken, maar door bestaande oplossingen aandachtig te bestuderen kunnen we focussen op meer belangrijke onbekende factoren.
 
