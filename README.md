@@ -10,7 +10,7 @@ De nieuwe generatie auto's worden steeds meer uitgerust met slimme dashboards di
 
 Uit enkele *contextual inquiries* is gebleken dat het niet het touchscreen zelf is die voor de afleiding zorgt, maar het feit dat je geen tactiele feedback krijgt bij het bedienen van een functie. Verschillende artikels en wetenschappelijke onderzoeken bevestigen dat.
 
-Onze oplossing is gebaseerd op de magnetische Surface *dial* van Microsoft. Zo'n *dial* is een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. Ook de combinatie met een *head-up-display* (HUD) is interessant omdat hierbij de ogen niet van de baan afwijken. 
+Onze oplossing is gebaseerd op de magnetische *Surface Dial* van Microsoft. Zo'n *dial* is een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. Ook de combinatie met een *head-up-display* (HUD) is interessant omdat hierbij de ogen niet van de baan afwijken. 
 
 In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
 
