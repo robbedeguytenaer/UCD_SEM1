@@ -39,7 +39,7 @@ Randvoorwaarden:
 > Volledige protocollen en reports zijn te vinden onder de bijlagen.
 
 ## Methodologie
-<img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/513eaa47-d3dd-45f1-a3e3-30b060c04b0e"/>
+<img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/881c6c7c-530a-42a4-ac4f-3fa136c90e0c"/>
 
 Elk ontwerpproces start vanuit de exploratie van de opdracht. Wat is de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral kunnen we dit probleem gaan onderbouwen of weerleggen met bestaande en nieuwe onderzoeken? Onze opdracht startte met een ontmoeting van de opdrachtgevers van dit project. We gingen in gesprek met Granstudio en kregen te horen wat van ons verwacht werd. We konden aan de slag met het onderzoek in de probleemruimte. 
 
