@@ -71,10 +71,10 @@ Voor we als team met twee verder gingen had Warre ook al een focusgroep georgani
 Toen er werd gevraagd wat mensen vonden van een minimalistisch Tesla interieur waren ze enerzijds enthousiast over het minimalistische, maar niet te spreken over de functionaliteit en veiligheid van één groot touchscreen zonder fysieke knoppen.
 Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen in het *head-up-display* lezen. Scrollen en selecteren gebeurt dan met de *dial*.
 
-<img width="32%" alt="Afbeelding1" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/3cf6f8a2-57d1-42c0-b24c-b35e5d91109a">
-<img width="32%" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11ac8081-ad86-4a6b-90de-81e648b0a837">
-
-
+<p>
+<img width="49%" alt="Afbeelding1" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/3cf6f8a2-57d1-42c0-b24c-b35e5d91109a">
+<img width="49%" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11ac8081-ad86-4a6b-90de-81e648b0a837">
+</p>
 
 #### Benchmarking
 Om de markt te analyseren maken we gebruik van benchmarking omdat heel veel designkeuzes al succesvol zijn opgelost door anderen. Je hoeft niet alles opnieuw te onderzoeken, maar door bestaande oplossingen aandachtig te bestuderen kunnen we focussen op meer belangrijke onbekende factoren.
