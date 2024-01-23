@@ -72,8 +72,8 @@ Toen er werd gevraagd wat mensen vonden van een minimalistisch Tesla interieur w
 Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen in het *head-up-display* lezen. Scrollen en selecteren gebeurt dan met de *dial*.
 
 <p>
-<img width="49%" alt="Afbeelding1" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/3cf6f8a2-57d1-42c0-b24c-b35e5d91109a">
-<img width="49%" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11ac8081-ad86-4a6b-90de-81e648b0a837">
+<img width="70%" alt="Afbeelding1" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/3cf6f8a2-57d1-42c0-b24c-b35e5d91109a">
+<img width="28%" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11ac8081-ad86-4a6b-90de-81e648b0a837">
 </p>
 
 #### Benchmarking
