@@ -175,8 +175,8 @@ Gebruikers beschouwen de mediummaat van het touchscreen als meest ideaal. Het is
 Daarnaast geeft een gebruiker aan dat de *dial* ook naast het scherm bedienbaar moet zijn zodat je niet telkens met heel je arm tot aan het scherm dient te strekken. Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/62c4561d-bfc4-4668-9827-9c784b2e44a1" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/06f6e012-620e-411b-b870-2c24fe74bff6" width="49%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/62c4561d-bfc4-4668-9827-9c784b2e44a1" width="55%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/06f6e012-620e-411b-b870-2c24fe74bff6" width="43%"/>
 </p>
 
 ## Bill of materials
