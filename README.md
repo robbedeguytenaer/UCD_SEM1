@@ -41,7 +41,11 @@ Randvoorwaarden:
 ## Methodologie
 <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/513eaa47-d3dd-45f1-a3e3-30b060c04b0e"/>
 
-Methodologie
+Elk ontwerpproces start vanuit een ontdekking van de opdracht. Wat is de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral kunnen we dit probleem gaan onderbouwen of weerleggen met bestaande en nieuwe onderzoeken? Onze opdracht startte met een ontmoeting met de opdrachtgevers van dit project. We gingen in gesprek met Gransstudio en kregen te horen wat van ons verwacht werd. We konden aan de slag met het onderzoek in de probleemruimte. 
+
+Wat vinden gebruikers die zich al langere tijd in de probleemruimte bevinden van het gestelde probleem en welke oplossingen hebben zij in gedachten? Het probleem werd alvast sterk bevestigd uit enkele *contextual inquiries* en uit een focus groep kwamen enkele interessante oplossingsmethodes. Door te gaan kijken naar wat vandaag de dag al op de markt is (benchmarking) en te gaan overleggen met medestudenten konden we in de oplossingsruimte al het een en ander gaan ontdekken. Nadat we in een team gegoten werden konden we ideeën en bedenkingen gaan uitwisselen en kwamen we tot een sterke brainstorm. Hiermee werd de ontdekkingsfase afgerond en konden we ons concept verder gaan uitwerken en onderzoeken. 
+
+We startten met het ontwerp van enkele prototypes van *interfaces* en *dials*. We kregen ook de kans ons concept te gaan voorstellen aan ingenieursstudenten uit Gent die met enkele maatschappelijke bedenkingen
 
 > [!NOTE]
 > Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
@@ -77,9 +81,9 @@ Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We
 |Start calls|||X - X|X|
 
 #### Focus Group
-Voor we als team met twee verder gingen had Warre ook al een focusgroep georganiseerd. Die focusgroep ging ook over de veiligheid en afleiding en wagens, met specificatie op het interieur van elektrische auto’s. Ook uit die focusgroep kwamen enkele interessante topics. In die focusgroep werd aan acht mensen de opdracht gegeven om hun droomdashboard te maken met allerlei verschillende interieuronderdelen. Zes van de acht gebruikers plaatsten een draaiknop in hun interieur en twee mensen plaatsten er zelf meer dan twee draaiknoppen en kozen ook voor draaiknoppen aan het stuur. Dat draaiknoppen geliefd zijn bij een grote groep mensen is dus alvast zeker. Zes mensen kozen ook om een *head-up-display* te plaatsen in de voorruit.
-Toen er werd gevraagd wat mensen vonden van een minimalistisch Tesla interieur waren ze enerzijds enthousiast over het minimalistische, maar niet te spreken over de functionaliteit en veiligheid van één groot touchscreen zonder fysieke knoppen.
-Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen in het *head-up-display* lezen. Scrollen en selecteren gebeurt dan met de *dial*.
+Voor we als team met twee verder gingen had Warre ook al een focusgroep georganiseerd. Die focusgroep ging ook over de veiligheid en afleiding in wagens, specifiek  toegepast op het interieur van elektrische auto’s. Ook uit die focusgroep kwamen enkele interessante topics. Aan acht mensen werd de opdracht gegeven om hun droomdashboard te maken met allerlei verschillende interieuronderdelen. Zes van de acht gebruikers plaatsten een draaiknop in hun interieur en twee mensen plaatsten er zelf meerdere waaronder ook op het stuur. Dat ze geliefd zijn bij een grote groep mensen is dus alvast zeker. Zes mensen kozen ook om een *head-up-display* te plaatsen in de voorruit.
+Toen er werd gevraagd wat mensen vonden van een Tesla-interieur waren ze enerzijds enthousiast over het minimalistische, maar niet te spreken over de functionaliteit en veiligheid van één groot touchscreen zonder fysieke knoppen.
+Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen in het *HUD*. Scrollen en selecteren gebeurt dan met de *dial*.
 
 <p>
 <img width="60%" alt="Afbeelding1" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/3cf6f8a2-57d1-42c0-b24c-b35e5d91109a">
