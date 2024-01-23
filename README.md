@@ -10,13 +10,13 @@ De nieuwe generatie auto's worden steeds meer uitgerust met slimme dashboards di
 
 Uit enkele *contextual inquiries* is gebleken dat het niet het touchscreen zelf is die voor de afleiding zorgt, maar het feit dat je geen tactiele feedback krijgt bij het bedienen van een functie. Verschillende artikels en wetenschappelijke onderzoeken bevestigen dat.
 
-Onze oplossing is gebaseerd op de magnetische Surface *dial* van Microsoft. Zo'n *dial* is een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. Ook de combinatie met een head-up-display is interessant omdat hierbij de ogen niet van de baan afwijken. 
+Onze oplossing is gebaseerd op de magnetische Surface *dial* van Microsoft. Zo'n *dial* is een fysieke verplaatsbare knop die je op het touchscreen kan plaatsen. Elke plaats op het scherm representeert een bedienbare functie. Ook de combinatie met een *head-up-display* (HUD) is interessant omdat hierbij de ogen niet van de baan afwijken. 
 
 In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
 
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/343d123c-7247-4bda-b35b-b851a2511b5b" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/98a8524a-4ac3-4415-a94b-a4940125ff59" width="49%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/6388c215-353b-473f-b0ad-b9d9dbf4852b" width="49%"/>
 </p>
 
 ## Introductie
@@ -208,6 +208,8 @@ Voor de materiaalkeuze van de *dial* trokken we naar enkele gebruikers met een h
 Als we kijken naar het prototypen van een *head-up-display* dan zit daar misschien nog de grootste uitdaging. We moeten op zoek naar een eenvoudig *head-up-display* dat toch een breed scala aan informatie kan weergeven en vooral uiterst vloeiend samenwerkt met de dial en het touchscreen. De uitdaging zit hem in het vinden van een optimale weergavebalans. Een tekort aan informatie zorgt ervoor dat de bestuurder terug naar het touchscreen moet kijken, maar een teveel aan informatie zorgt evenwel voor afleiding. Om het *head-up-display* praktisch te gaan realiseren hebben we oog op verschillende methodes. Zo bestaan er heel wat simpele methodes om aan de hand van een scherm en twee spiegels de informatie te gaan projecteren op een raam. Hiervoor kunnen we eventueel samenwerken met andere studenten.
 
 Eenmaal alle afzonderlijke aspecten ontworpen en geoptimaliseerd zijn, is het tijd voor de volgende stap: het samenvoegen tot een mooi en realistisch geheel waarmee we naar de eindgebruiker kunnen trekken. Een gehele ervaring in een natuurlijke context leidt tot nieuwe inzichten en gevoelens, die we dan kunnen impliceren in een finaal prototype.
+
+<img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/98a8524a-4ac3-4415-a94b-a4940125ff59"/>
 
 ## Bijlagen
 - Discovery
