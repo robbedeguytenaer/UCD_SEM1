@@ -138,17 +138,16 @@ We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (e
 Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de dial in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/bbf31e88-9f21-40d6-b807-d79c55053d1c" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/8d309d77-48e4-4fa9-9264-1b4596134879" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/5d88d351-e011-4a49-9bc2-1caf032941dd" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/fd368b4d-b61f-463a-bbdc-4681d9475e06" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/cffdc532-c142-435d-90ca-f65d48e7fa92" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/87eb61fc-b998-477a-a893-6e9897ce553a" width="32%"/>
 </p>
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/2ce8c67c-8c63-42d6-ad18-1f08af2c26ce" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11bf6835-41e6-42b0-a461-ed3afd08450f" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/367ee800-9be0-4f4e-aaca-302484eb9e2f" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/25a6964c-2720-44ed-a69b-ef41411702af" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/1409a5c7-5506-4ab8-b4d2-f8888acba818" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/2a0eaeb2-5656-4379-bbb0-8aa31fae2a70" width="32%"/>
 </p>
-
 
 ### Conclusies & implicaties
 Uit de klei-test blijkt dat gebruikers een voorkeur hadden voor kleinere knoppen, echter vermelden een aantal deelnemers dat hun voorkeur gaat naar een knop met voldoende volume en grip. De groottes variëren niet zo heel veel, maar de vormen wel, gaande van klassieke cilinders tot schuivers en bolvormige knoppen. Een interessant suggestie is een conische knop met het smallere oppervlak op het scherm. Dit zorgt niet enkel voor een betere grip maar geeft ook het signaal aan de gebruiker dat de knop verplaatst kan worden. Uit de scoringsmatrix blijkt dat een knop met een diameter van 60 mm en een hoogte van 20 mm het meest geschikt is, ook de licht hogere dial werd positief bevonden. Daarnaast gaat de voorkeur qua vorm naar een gegolfde contour. Op vlak van materiaal preferen de deelnemers een licht indrukbaar materiaal, maar ook de ruwere materialen vallen in de smaak.
