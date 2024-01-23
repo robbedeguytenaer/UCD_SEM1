@@ -39,7 +39,7 @@ Randvoorwaarden:
 > Volledige protocollen en reports zijn te vinden onder de bijlagen.
 
 ## Methodologie
-<img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/3d6dca04-963b-46d4-a4fd-68949bb80a4c"/>
+<img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/513eaa47-d3dd-45f1-a3e3-30b060c04b0e"/>
 
 Methodologie
 
