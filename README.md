@@ -107,7 +107,7 @@ Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze dia
 
 <p>
   <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/be6cc5d6-7650-431e-9ba6-cfa813c49f62" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/0cb97803-6960-4495-a09b-ec6937142b72" width="49%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/198f2613-7320-4ca4-aff1-784e1299125a" width="49%"/>
 </p>
 
 <p>
