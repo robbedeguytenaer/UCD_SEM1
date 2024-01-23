@@ -109,9 +109,9 @@ Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze dia
 </p>
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/fbff5f1c-9422-4b96-bba5-be57ad6b838f" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c91aef7e-3df0-4721-a1b1-54d7d1c045e5" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c19bb943-af3f-46c2-a78b-8dfcc9e7fd3e" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/fbff5f1c-9422-4b96-bba5-be57ad6b838f" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c91aef7e-3df0-4721-a1b1-54d7d1c045e5" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c19bb943-af3f-46c2-a78b-8dfcc9e7fd3e" width="32%"/>
 </p>
   
 <p>
@@ -124,9 +124,9 @@ Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze dia
 Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van de opgestelde top 3's werden samengegoten in een scoringsmatrix. Prototypes op plaats 1 kregen een score +3, prototypes op plaats 2 kregen een score +2 en prototypes op plaats 3 kregen een score +1. Prototypes waar deelnemers helemaal geen voorkeur voor hadden, kregen een -1. Door de scores voor elk model van alle deelnemers bij elkaar op te tellen, hebben we een eindscore afgeleid. Een hogere eindscore duidde op een gunstigere ervarging.
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/348c23b9-6e23-4900-8787-b12fc81ce1e6" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c16e7c17-2c84-457e-9042-17f55a3d69b9" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/9bc380f4-f2a0-4127-b423-ec461c858998" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/348c23b9-6e23-4900-8787-b12fc81ce1e6" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/c16e7c17-2c84-457e-9042-17f55a3d69b9" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/9bc380f4-f2a0-4127-b423-ec461c858998" width="32%"/>
 </p>
 
 #### User interface
@@ -136,15 +136,15 @@ We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (e
 Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de dial in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/bbf31e88-9f21-40d6-b807-d79c55053d1c" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/8d309d77-48e4-4fa9-9264-1b4596134879" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/5d88d351-e011-4a49-9bc2-1caf032941dd" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/bbf31e88-9f21-40d6-b807-d79c55053d1c" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/8d309d77-48e4-4fa9-9264-1b4596134879" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/5d88d351-e011-4a49-9bc2-1caf032941dd" width="32%"/>
 </p>
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/2ce8c67c-8c63-42d6-ad18-1f08af2c26ce" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11bf6835-41e6-42b0-a461-ed3afd08450f" width="33%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/367ee800-9be0-4f4e-aaca-302484eb9e2f" width="33%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/2ce8c67c-8c63-42d6-ad18-1f08af2c26ce" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11bf6835-41e6-42b0-a461-ed3afd08450f" width="32%"/>
+  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/367ee800-9be0-4f4e-aaca-302484eb9e2f" width="32%"/>
 </p>
 
 
