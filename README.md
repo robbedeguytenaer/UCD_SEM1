@@ -1,4 +1,4 @@
-# Car Dashboard Design
+# Ctrl-Wheely
 *Optimalisatie van autodashboard-interactie door middel van een fysieke verplaatsbare knop op het touchscreen.* 
 
 *Projectteam: Korneel Verraes; Warre Robbe*
