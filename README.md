@@ -1,9 +1,9 @@
 # Projecttitel
-*Omschrijving van je concept in 1 zin* 
+*Nature & Play: kampkode* 
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Robbe De Guytenaer; Kai Cherchye*
 
-Datum
+*12/02/2024*
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
