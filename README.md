@@ -204,9 +204,14 @@ Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm ma
 </p>
 
 > [!IMPORTANT]
-> - DR1
-> - DR2
-> - ...
+>  Uit de twee conceptesten vullen we de _design requirements_ aan met zaken die volgens de gebruiker absoluut noodzakelijk zijn.
+> - De _dial_ moet een conische vorm hebben.
+> - De _dial_ moet goed in de hand liggen.
+> - De _dial_ moet ook naast het scherm bedienbaar zijn.
+> - Het touchscreen moet ook toegankelijk zijn voor kleinere mensen.
+> - Er dienen zes belangrijke functies veilig bedienbaar te worden tijdens het rijden.
+> - Het interface moet goed leesbaar zijn, ook voor oudere mensen.
+> - Het interface moet modern ogen.
 
 ## Bill of materials
 - touchscreen (oude tablet)
