@@ -110,7 +110,7 @@ HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst wor
 
 **Hoe kunnen we een *dial* en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg terwijl ze interageren met het dashboard?**
 
-> [!WARNING]
+> [!IMPORTANT]
 > DR1
 > DR2
 > ...
