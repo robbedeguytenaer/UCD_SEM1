@@ -39,9 +39,18 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 ## Definition
-Max. 1000 woorden
 ### Doestellingen
-Wat wilde je bereiken?
+Met deze test wilden we achterhalen hoe spelers elkaar in het spel kunnen uitschakelen. Het basisconcept omvat de helm, een lamp en een methode om uitgeschakeld te worden. Hoewel er meerdere manieren zijn om dit te doen, verschilt de effectiviteit. Diverse factoren spelen hierbij een rol, waaronder uitstraling, veiligheid, efficiëntie en prijs.
+
+We dachten na over vier basisconcepten omtrent uitschakeling van een speler:
+
+1. Uitschakeling door op de lamp te drukken, ergens op de helm geplaatst.
+2. Achteraan de helm hangt een staart waarmee de speler wordt uitgeschakeld bij het trekken eraan, met een extra lamp elders op de helm.
+3. De helm heeft een 'flexibele lamp' waarmee de speler wordt uitgeschakeld bij aanraking door een tegenstander.
+4. Een afneembare lamp, bijvoorbeeld bevestigd via magneten, die de speler uitschakelt wanneer deze van de helm wordt getrokken.
+
+Deze concepten worden visueel weergegeven in Figuur 3. Elk concept heeft zijn voor- en nadelen. Door ze aan derden voor te leggen, streven we naar een objectief oordeel over welke methode mogelijk het beste is.
+
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
 ### Resultaten
