@@ -95,4 +95,5 @@ De kritische reflectie op ons proces benadrukt het belang van een meer holistisc
 
 ## Bronnen
 Meire, J. & Kind & Samenleving. (2020). *Het grote buitenspeelonderzoek.* https://k-s.be/medialibrary/purl/nl/6626949/Het%20grote%20buitenspeelonderzoek.pdf
+
 Kantar Public & Jantje Beton. (2022). *Onderzoek buitenspelen 2022.* https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2022-62a06183eb380.pdf
