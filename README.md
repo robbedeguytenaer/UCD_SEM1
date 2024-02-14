@@ -161,15 +161,15 @@ We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (e
 Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de *dial* in hun achterhoofd.
 Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/fd368b4d-b61f-463a-bbdc-4681d9475e06" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/cffdc532-c142-435d-90ca-f65d48e7fa92" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/87eb61fc-b998-477a-a893-6e9897ce553a" width="32%"/>
+  <img src="/images/user test interface layout 1.png" width="32%"/>
+  <img src="/images/user test interface layout 2.png" width="32%"/>
+  <img src="/images/user test interface layout 3.png" width="32%"/>
 </p>
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/25a6964c-2720-44ed-a69b-ef41411702af" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/1409a5c7-5506-4ab8-b4d2-f8888acba818" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/2a0eaeb2-5656-4379-bbb0-8aa31fae2a70" width="32%"/>
+  <img src="/images/user test interface layout 4.png" width="32%"/>
+  <img src="/images/user test interface layout 5.png" width="32%"/>
+  <img src="/images/user test interface layout 6.png" width="32%"/>
 </p>
 
 ### Conclusies & implicaties
@@ -187,8 +187,8 @@ Gebruikers beschouwen de mediummaat (350 x 215 mm) van het touchscreen als meest
 Daarnaast geeft een gebruiker aan dat de *dial* ook naast het scherm bedienbaar moet zijn zodat je niet telkens met heel je arm tot aan het scherm dient te strekken. Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/62c4561d-bfc4-4668-9827-9c784b2e44a1" width="47%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/06f6e012-620e-411b-b870-2c24fe74bff6" width="52%"/>
+  <img src="/images/user test interface foto.png" width="47%"/>
+  <img src="/images/user test interface uitkomst.png" width="52%"/>
 </p>
 
 ## Bill of materials
@@ -212,7 +212,7 @@ Als we kijken naar het prototypen van een HUD, dan zit daar misschien nog de gro
 
 Eenmaal alle afzonderlijke aspecten ontworpen en geoptimaliseerd zijn, is het tijd voor de volgende stap: het samenvoegen tot een mooi en realistisch geheel waarmee we naar de eindgebruiker kunnen trekken. Een gehele ervaring in een natuurlijke context leidt tot nieuwe inzichten en gevoelens, die we dan kunnen impliceren in een finaal prototype: Ctrl-Wheely.
 
-<img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/98a8524a-4ac3-4415-a94b-a4940125ff59"/>
+<img src="/images/concept render voor.png"/>
 
 ## Bijlagen
 - Discovery
