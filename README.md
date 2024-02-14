@@ -110,6 +110,11 @@ HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst wor
 
 **Hoe kunnen we een *dial* en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg terwijl ze interageren met het dashboard?**
 
+> [!WARNING]
+> DR1
+> DR2
+> ...
+
 ## Definition
 In de definitiefase geven we vorm aan de oplossingen die we dit jaar zullen uitwerken. Gebruikmakend van het eerder gedefinieerde probleem, onderzoeken we mogelijke oplossingen om zo een weloverwogen conceptkeuze te maken. Dit concept dient dan als basis voor verdere ontwikkeling in het tweede semester.
 ### Doelstellingen
