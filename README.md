@@ -10,7 +10,11 @@ In de hedendaagse samenleving spenderen de meeste kinderen meer tijd binnenshuis
 
 Als reactie hierop hebben we een innovatieve oplossing bedacht: de ontwikkeling van een digitale helm die het buiten spelen aantrekkelijker maakt en kinderen motiveert om meer tijd in de buitenlucht door te brengen. Deze helm is ontworpen met als doel niet alleen de fysieke activiteit te bevorderen, maar ook het plezier en de interesse van kinderen in buitenspelen te vergroten. 
 <p>
-  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/helm_render.png?raw=true">
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/helm_render.png?raw=true"width="24.5%"/>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/helm_geel.png?raw=true" width="24.5%"/>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/KampKode%20logo%202.png?raw=true" width="24.5%"/>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/IMG_3678.jpg?raw=true" width="24.5%"/>
+  
 </p>
 
 
@@ -25,18 +29,47 @@ Gamification, met zijn focus op competitie, samenwerking en beloning, biedt de m
 </p>
 
 ## Methdologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+In de initiële fase van ons project werden ons drie verschillende projecten voorgelegd waaruit we de opdracht "Nature, play & tech" hebben gekozen. Gedurende het resterende jaar zullen we ons hierop concentreren. Na het ontvangen van de opdracht hebben we een onderzoek gedaan naar het bestaande probleem en de bijbehorende oorzaken. We hebben daarbij gebruikgemaakt van artikelen en onderzoeken op het internet verder werd er ook gebruikgemaakt van methoden zoals de root-cause analysis en het WWWWWH-model.
+
+Vervolgens hebben we strategieën gebruikt zoals benchmarking, problem-solution matrix en gebruikersonderzoek om mogelijke oplossingen voor het geïdentificeerde probleem te verkennen. Tijdens de ideegeneratie fase hebben we gebrainstormd en een selectie gemaakt uit de vele ideeën. Dit leidde tot het bepalen van één specifiek concept waaraan we verder zouden werken, namelijk 'KampKode'.
+
+In de 'Concept verder werken'-fase hebben we het gekozen concept geanalyseerd door het te verdelen in belangrijke en minder belangrijke factoren. Hierbij hebben we meerdere opties voor elk aspect overwogen en een morfologische kaart gemaakt. Op basis hiervan hebben we enkele concepten geschetst om de richting van ons project te bepalen.
+Vervolgens zijn we overgegaan naar de volgende fase, waarin we een eerste prototype hebben ontwikkeld. Ons gekozen concept omvatte een helm met een knop gemaakt uit schuim, ondersteund door eenvoudige Arduino-code om de visuele aspecten te verbeteren.
+
+Bij het afronden van het eerste semester hebben we een eerste verslag opgesteld, waarin we onze voortgang tot dan toe hebben gedocumenteerd en onze bevindingen hebben gepresenteerd. Deze verslaglegging geeft een overzicht van de stappen die we hebben genomen en de ontwikkeling van ons project tot dusver.
+
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+Ons voornaamste doel is het creëren van het eerste prototype en het testen van de initiële ideeën voor het uitschakelen van spelers. We hebben op dit moment twee voorlopige opties bedacht: het integreren van een drukknop op de helm of het bevestigen van een staart aan de achterkant van de helm. Het uitvoeren van tests is van essentieel belang om een dieper begrip te krijgen van de aspecten die mogelijk aanpassing behoeven. Het ontvangen advies van studenten uit Gent heeft de nadruk gelegd op de noodzaak om rekening te houden met kinderen met beperkingen.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+- knowledge templates: persona, WWWWWH-model
+- literatuuronderzoek: artikelen en onderzoeken op het internet
+- benchmarking
+- eerste prototype
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+De discovery fase startte met een grondige analyse van onze doelgroep, waarbij we gebruikmaken van knowledge templates zoals het opstellen van een persona en het WWWWWH-model. Hierbij lag de focus op het begrijpen van het gedrag en de interesses van de doelgroep.
+
+Vervolgens werd het probleem nader onderzocht, waarbij we de mogelijke redenen en gevolgen ervan analyseerden door middel van literatuuronderzoek. We doorzochten diverse artikelen en onderzoeken online, waaruit bleek dat het probleem expliciet aangepakt moet worden om kinderen aan te moedigen om buiten te spelen.
+
+Het bestaande marktonderzoek werd uitgevoerd met behulp van benchmarking, waarbij we de positieve en negatieve aspecten van reeds bestaande ontwerpen onderzochten. Door gebruik te maken van een problem-solution matrix brachten we de problemen en bestaande oplossingen in kaart.
+
+Het eerste prototype bestaat uit een helm met een lamp gemaakt uit schuim bovenop en een staart aan de achterkant. Dit tastbare beeld geeft ons waardevolle inzichten in hoe deze elementen zich in de praktijk manifesteren. We hebben succesvol een led aan de helm bevestigd, aangestuurd door Arduino. Een drukknop onder de schuimen lamp activeert de led bij indrukken, terwijl het trekken aan de staart hetzelfde effect heeft. Deze positieve testresultaten markeren een vooruitgang richting ons doel en bieden waardevolle informatie voor verdere optimalisatie van het ontwerp en de functionaliteiten.
+
+Tijdens het testen ontstond echter een zorg met betrekking tot veiligheid. Als kinderen te hard slaan op de helm, bestaat het risico op letsel. Om dit aan te pakken, overwegen we alternatieve methoden voor het activeren van het uitschakelmechanisme, zoals schokdempers of het afneembaar maken van de knop. Deze overwegingen zijn van essentieel belang om een veilige speelervaring te waarborgen.
+
+Deze bevindingen en aanvullende overwegingen zullen leiden tot verdere aanpassingen en verbeteringen in het ontwerpproces, en benadrukken het belang van continue evaluatie en innovatie in ons project.
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+In de onderzoeksfase hebben we geïdentificeerd wat de belangrijkste factoren zijn die kinderen weerhouden om buiten te spelen, en tevens onderzocht welke strategieën ontwerpers hanteren om toch de betrokkenheid van kinderen in buitenactiviteiten te vergroten. Deze bevindingen hebben ons een initiële inzage gegeven in de doelen die we moeten nastreven. 
+
+Ons einddoel in deze fase van het creëren van het eerste prototype en het testen van de uitschakelmethode heeft geleid tot waardevolle inzichten en verschillende resultaten. Het gebruik van schuim als primair materiaal en leds voor verlichting, gebaseerd op zorgvuldige overwegingen en suggesties van studenten uit Gent, heeft zich bewezen als effectief en kostenefficiënt.
+
+Tijdens de tests rees een zorg omtrent veiligheid, met name het risico op letsel als gevolg van te hard slaan op de helm. Om dit aan te pakken, overwegen we alternatieve activeringsmethoden zoals schokdempers of het afneembaar maken van de knop. Deze overwegingen zijn cruciaal om een veilige speelervaring te waarborgen, met name voor kinderen met beperkingen, zoals benadrukt door het ontvangen advies.
+
+Deze bevindingen resulteren in de noodzaak van verdere aanpassingen en verbeteringen in ons ontwerpproces. De implicaties benadrukken het belang van continue evaluatie en innovatie om een veilige, inclusieve en interactieve speelervaring voor kinderen te bereiken.
 
 ## Definition
 ### Doestellingen
