@@ -42,7 +42,7 @@ Randvoorwaarden:
 
 ## Methodologie
 Tijdlijn (klikken om te vergroten):
-<img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/881c6c7c-530a-42a4-ac4f-3fa136c90e0c"/>
+<img src="/images/methodologie tijdlijn.png"/>
 
 Elk ontwerpproces start vanuit de exploratie van de opdracht. Wat is de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral kunnen we dit probleem gaan onderbouwen of weerleggen met bestaande en nieuwe onderzoeken? Onze opdracht startte met een ontmoeting van de opdrachtgevers van dit project. We gingen in gesprek met Granstudio en kregen te horen wat van ons verwacht werd. We konden aan de slag met het onderzoek in de probleemruimte. 
 
@@ -65,8 +65,8 @@ Door middel van contextual inquiries kunnen we huidige gebruikspatronen in hun n
 Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We startten met een introductie om een beter beeld te krijgen van de deelnemer. Daarna werd hem/haar gevraagd verschillende dingen te doen; zijn/haar favoriete liedje opleggen, volume verhogen, verwarming verlagen, navigeren met de gps... We hebben alles geobserveerd en een tabel opgesteld met de verschillende functies en hoe ze bediend worden.
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/8aae7aa7-7bcd-4c1c-bbfc-2a0e0ae37a1a" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/e852cd28-31a8-4f7b-8c11-9bdf23cd5b85" width="49%"/>
+  <img src="/images/contextual inquiries Warre.jpg" width="49%"/>
+  <img src="/images/contextual inquiries Jan.jpg" width="49%"/>
 </p>
 
 ||Buttons on steering wheel|Physical buttons|Touchscreen|Voice commands|
@@ -86,8 +86,8 @@ Toen er werd gevraagd wat mensen vonden van een Tesla-interieur, waren ze enerzi
 Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de *dial*.
 
 <p>
-<img width="60%" alt="Afbeelding1" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/3cf6f8a2-57d1-42c0-b24c-b35e5d91109a">
-<img width="38%" src="https://github.com/korneelverraes/tussentijds-rapport/assets/154961545/11ac8081-ad86-4a6b-90de-81e648b0a837">
+<img width="60%" src="/images/focus group.png">
+<img width="38%" src="/images/focus group tafel.jpg">
 </p>
 
 #### Benchmarking
@@ -96,11 +96,11 @@ Om de markt te analyseren maken we gebruik van benchmarking, heel wat designkeuz
 Het probleem werd opgesplitst in twee fundamentele deelproblemen. Hoe kunnen we informatie weergeven en hoe kunnen we bepaalde functies bedienen? Voor beide werden de voor- en nadelen op een rijtje gezet. Daarna werd alles samengegoten in een overzichtelijke *problem-solution* matrix.
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/bbfada7e-b3ca-40c8-96b6-b0b40c4434f0" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/4d45a730-82ee-462b-829c-040572d9b47c" width="49%"/>
+  <img src="/images/benchmarking visualisation.jpg" width="49%"/>
+  <img src="/images/benchmarking controls.jpg" width="49%"/>
 </p>
 
-<img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/1f392304-7c29-4ec8-93da-6fe266cbce7e"/>
+<img src="/images/benchmarking problem solution matrix.jpg"/>
 
 ### Conclusies & implicaties
 De afleiding tijdens het rijden wordt niet veroorzaakt door het touchscreen zelf maar door het gebrek aan tactiele feedback bij het bedienen van het scherm. Je moet visueel verifiëren wat je gedaan hebt en of je het juist gedaan hebt. Verder genieten knoppen op het stuur en bediening via het touchscreen de voorkeur van gebruikers, gevolgd door fysieke knoppen en stembediening.
