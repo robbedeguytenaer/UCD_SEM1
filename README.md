@@ -42,7 +42,7 @@ Randvoorwaarden:
 
 ## Methodologie
 Tijdlijn (klikken om te vergroten):
-<img src="/images/methodologie tijdlijn.png"/>
+<img src="/images/methodologie tijdlijn.jpg"/>
 
 Elk ontwerpproces start vanuit de exploratie van de opdracht. Wat is de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral kunnen we dit probleem gaan onderbouwen of weerleggen met bestaande en nieuwe onderzoeken? Onze opdracht startte met een ontmoeting van de opdrachtgevers van dit project. We gingen in gesprek met Granstudio en kregen te horen wat van ons verwacht werd. We konden aan de slag met het onderzoek in de probleemruimte. 
 
