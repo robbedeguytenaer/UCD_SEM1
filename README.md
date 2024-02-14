@@ -75,7 +75,7 @@ Deze optie viel ook in de smaak. Het aantikken van de lamp in actie is leuk en s
 Dit is de veiligste van de vier. Doordat er hier niet met ‘slaan’ of ‘tikken’ of ‘trekken’ wordt gewerkt, en de lamp gewoon moet worden vastgenomen om de speler uit te schakelen, zullen bij dit systeem de minste ongevallen gebeuren. Het systeem is redelijk simpel te maken. De lamp en de helm blijven aan elkaar met een magneet die sterk genoeg is om ze aan elkaar te houden bij actie, maar ook zwak genoeg is om ze er makkelijk van te trekken. Het enige dat bij dit systeem een probleem is, is dat de helm uit meerdere delen bestaat. Er moet dan een oplossing worden gevonden op wat er gebeurt met de lamp wanneer deze van een helm wordt getrokken.
 
 <p>
-  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/06c4d0a9de673ebbd93ce1be9d94eaf7d0a1cb19/beeldmateriaal/buitenspelen_grafiek.png"/>
+  <img src="beeldmateriaal/IMG_3678.jpg"/>
 </p>
 
 ### Conclusies & implicaties
