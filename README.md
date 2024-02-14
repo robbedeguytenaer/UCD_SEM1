@@ -129,29 +129,29 @@ Door het uitvoeren van concepttesten kunnen we ons concept evalueren met echte g
 Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze *dial*. Welke grootte? Welke vorm? Welk materiaal? Na een korte introductie gaven we elke deelnemer een stuk klei/plasticine. We gaven hen de opdracht om hun ideale *dial* te ontwerpen en hierbij te variëren in vorm, grootte, afwerking... Hierbij moest de focus op het praktische aspect liggen, minder op het esthetische. Nadat elke deelnemer zijn of haar ideale *dial* gemaakt had gingen we over naar het tweede deel van de test. We ontwikkelden drie *sensorial boards*: 6 verschillende groottes, 9 vormvarianten en 6 verschillende materialen. Elke deelnemer kreeg de kans elk bord te exploreren door aan de verschillende modellen te voelen. Per bord moesten de deelnemers hun voorkeur weergeven in een top 3. Alle ruwe data van deze testen werd verzameld door middel van gebruikersformulieren.
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/be6cc5d6-7650-431e-9ba6-cfa813c49f62" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/198f2613-7320-4ca4-aff1-784e1299125a" width="49%"/>
+  <img src="/images/user test dial plasticine.png" width="49%"/>
+  <img src="/images/user test dial schets.png" width="49%"/>
 </p>
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/32ce6646-530c-4345-8756-1add4a0a7c50" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/adb85d60-3b40-4850-976b-fa47c739d4e0" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/6a0e6b91-5974-44c3-8501-f5fe65bec01a" width="32%"/>
+  <img src="/images/user test dial bord sizes.jpg" width="32%"/>
+  <img src="/images/user test dial bord shapes.jpg" width="32%"/>
+  <img src="/images/user test dial bord materials.jpg" width="32%"/>
 </p>
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/3b04e2db-3944-436a-a286-f12fd0ff7720" width="24.5%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/e968982e-3144-466e-a84e-1ee76f731413" width="24.5%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/2d331046-e235-418d-8396-5f38a1292f60" width="24.5%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/f1c3d883-f741-44cd-900d-0132655e38f1" width="24.5%"/>
+  <img src="/images/user test dial foto 1.jpg" width="24.5%"/>
+  <img src="/images/user test dial foto 2.jpg" width="24.5%"/>
+  <img src="/images/user test dial foto 3.jpg" width="24.5%"/>
+  <img src="/images/user test dial foto 4.jpg" width="24.5%"/>
 </p>
 
 Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van de opgestelde top 3's werden samengegoten in een scoringsmatrix. Prototypes op plaats 1 kregen een score +3, prototypes op plaats 2 kregen een score +2 en prototypes op plaats 3 kregen een score +1. Prototypes waar deelnemers eerder een afkeur voor hadden, kregen een -1. Door de scores voor elk model van alle deelnemers bij elkaar op te tellen, hebben we een eindscore afgeleid. Een hogere eindscore duidde op een gunstigere ervaring.
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/b92d9d28-47f9-425c-8d22-e52728740833" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/7543fa3a-3238-4145-b062-8d649b2974c4" width="32%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/7d9ae298-c574-4e09-a875-06955b0f1f41" width="32%"/>
+  <img src="/images/user test dial matrix sizes.png" width="32%"/>
+  <img src="/images/user test dial matrix shapes.png" width="32%"/>
+  <img src="/images/user test dial matrix materials.png" width="32%"/>
 </p>
 
 #### User interface
