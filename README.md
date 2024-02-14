@@ -21,8 +21,7 @@ In dit kader streven wij ernaar een bijdrage te leveren aan het stimuleren van b
 Gamification, met zijn focus op competitie, samenwerking en beloning, biedt de mogelijkheid om buitenspelen aantrekkelijker te maken voor kinderen die zijn opgegroeid met deze elementen als integraal onderdeel van hun dagelijkse leven. Met andere woorden is gamification een belangrijk aspect van producten voor kinderen die opgegroeid zijn met digitale games en sociale media. Onze missie is om deze elementen op een doordachte manier te implementeren in een product, zodat kinderen worden gestimuleerd om vaker buiten te spelen, en daarmee een gezonde ontwikkeling te bevorderen.
 
 <p>
-  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/06c4d0a9de673ebbd93ce1be9d94eaf7d0a1cb19/beeldmateriaal/buitenspelen_grafiek.png" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/6388c215-353b-473f-b0ad-b9d9dbf4852b" width="49%"/>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/06c4d0a9de673ebbd93ce1be9d94eaf7d0a1cb19/beeldmateriaal/buitenspelen_grafiek.png"/>
 </p>
 
 ## Methdologie
