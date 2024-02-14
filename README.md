@@ -57,13 +57,21 @@ De test werd uitgevoerd bij twee broers van Robbe, respectievelijk 7 en 12 jaar 
 
 ### Resultaten
 We zullen hier de resultaten bespreken van de test, per initieel idee (puntjes 1-4 in het deel ‘doelstellingen’). In onderstaande resultaten wordt soms gerefereerd naar lampen A, B, C, D en E die in Figuur 4 te vinden zijn.
+
 **1. Uitschakelen door drukken op de lamp bovenaan**
+
 Dit was meteen een van de favorieten omwille van het uitzicht, maar er waren enkele bedenkingen. Zo is het mogelijk dat kinderen te hard op de lamp gaan slaan waardoor de persoon die de helm draagt zich bezeerd. Dit kan grotendeels opgelost worden door een veersysteem, maar niet helemaal. Verder is het wel een goed systeem om uitgeschakeld te worden, en makkelijk te realiseren. Voor deze toepassing kunnen lampen A, B en E worden gebruikt, en ze zouden bovenaan of achteraan kunnen worden geplaatst.
-2. **Uitschakelen door trekken aan staart**
+
+**2. Uitschakelen door trekken aan staart**
+
 Het trekken aan een staart (die aan de achterkant van de helm hangt) kan op zich ook voor problemen zorgen als deze niet afneembaar is. Het hoofd kan daardoor naar achter worden getrokken, wat tot letsels kan leiden. Ook is het moeilijk om hier een ‘mooi’ product van te maken. Je zal telkens een loshangend deel hebben aan de helm. Dit slaat minder aan dan wanneer enkel de lamp op de helm staat. Een voordeel aan de staart is dat hij lager hangt dan het hoofd, wat betekent dat kleine kinderen ook makkelijker grotere kinderen kunnen uitschakelen. Lampen A en B zijn voor dit systeem ideaal. Ze moeten wel bovenop de helm staan.
+
 **3. Uitschakelen door tikken ‘flexibele lamp’**
+
 Deze optie viel ook in de smaak. Het aantikken van de lamp in actie is leuk en spannend. Indien men per ongeluk te hard zou slaan zou dit in principe niet veel kwaad kunnen voor het kind dat de helm draagt. Het is eerder een dwarskracht dan een axiale kracht, zoals bij (1) het geval is. De lamp zou ook vanachter laag kunnen hangen zodat rekening gehouden wordt met kleine kinderen. Een uitdaging bij dit ontwerp is het mechanisme dat detecteert wanneer het wordt aangetikt. Het zou dan een ‘tik’ moeten registreren vanaf een bepaalde kracht overschreden is. Echter kan het zijn dat dit mechanisme ook ‘tikken’ registreert wanneer er veel actie is in het spel. Het is dus een grotere uitdaging om dit correct te doen werken. Qua vorm van de lamp zouden B, C en D hier ideaal zijn. Deze kunnen in principe overal op de helm worden bevestigd.
+
 **4. Uitschakelen door afnemen lamp**
+
 Dit is de veiligste van de vier. Doordat er hier niet met ‘slaan’ of ‘tikken’ of ‘trekken’ wordt gewerkt, en de lamp gewoon moet worden vastgenomen om de speler uit te schakelen, zullen bij dit systeem de minste ongevallen gebeuren. Het systeem is redelijk simpel te maken. De lamp en de helm blijven aan elkaar met een magneet die sterk genoeg is om ze aan elkaar te houden bij actie, maar ook zwak genoeg is om ze er makkelijk van te trekken. Het enige dat bij dit systeem een probleem is, is dat de helm uit meerdere delen bestaat. Er moet dan een oplossing worden gevonden op wat er gebeurt met de lamp wanneer deze van een helm wordt getrokken.
 
 ### Conclusies & implicaties
