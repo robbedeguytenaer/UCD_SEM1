@@ -10,10 +10,9 @@ In de hedendaagse samenleving spenderen de meeste kinderen meer tijd binnenshuis
 
 Als reactie hierop hebben we een innovatieve oplossing bedacht: de ontwikkeling van een digitale helm die het buiten spelen aantrekkelijker maakt en kinderen motiveert om meer tijd in de buitenlucht door te brengen. Deze helm is ontworpen met als doel niet alleen de fysieke activiteit te bevorderen, maar ook het plezier en de interesse van kinderen in buitenspelen te vergroten. 
 <p>
-  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/helm_render.png?raw=true"width="24.5%"/>
-  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/helm_geel.png?raw=true" width="24.5%"/>
-  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/KampKode%20logo%202.png?raw=true" width="24.5%"/>
-  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/IMG_3678.jpg?raw=true" width="24.5%"/>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/helm_render.png?raw=true"width="32%"/>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/helm_geel.png?raw=true" width="32%"/>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/KampKode%20logo%202.png?raw=true" width="32%"/>
   
 </p>
 
