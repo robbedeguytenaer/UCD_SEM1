@@ -59,7 +59,7 @@ Een helder geformuleerde "how might we" bekomen.
 - focus group
 - benchmarking
 ### Resultaten
-#### Contextual inquiries
+#### Contextual inquiries (N=3)
 Door middel van contextual inquiries kunnen we huidige gebruikspatronen in hun natuurlijke context begrijpen, pijnpunten definiëren en een beter begrip krijgen van de contextuele randvoorwaarden voor ideeën en opportuniteiten.
 
 Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We startten met een introductie om een beter beeld te krijgen van de deelnemer. Daarna werd hem/haar gevraagd verschillende dingen te doen; zijn/haar favoriete liedje opleggen, volume verhogen, verwarming verlagen, navigeren met de gps... We hebben alles geobserveerd en een tabel opgesteld met de verschillende functies en hoe ze bediend worden.
@@ -80,7 +80,7 @@ Om dit te realiseren trokken we de baan op met verschillende autobestuurders. We
 |Answering calls|||X - X - X|
 |Start calls|||X - X|X|
 
-#### Focus Group
+#### Focus Group (N=8)
 Voor we als team verder gingen had Warre ook al een focusgroep georganiseerd. Die focusgroep ging ook over de veiligheid en afleiding in wagens, specifiek  toegepast op het interieur van elektrische auto’s. Ook uit die focusgroep kwamen enkele interessante topics. Aan acht mensen werd de opdracht gegeven om hun droomdashboard samen te stellen met allerlei verschillende interieuronderdelen. Zes van de acht gebruikers plaatsten een draaiknop in hun interieur en twee mensen plaatsten er zelf meerdere waaronder ook op het stuur. Dat ze geliefd zijn bij een grote groep mensen is dus alvast zeker. Zes mensen kozen ook om een HUD te plaatsen in de voorruit.
 Toen er werd gevraagd wat mensen vonden van een Tesla-interieur, waren ze enerzijds enthousiast over het minimalistische, maar anderzijds niet te spreken over de functionaliteit en veiligheid van één groot touchscreen zonder fysieke knoppen.
 Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de *dial*.
@@ -90,7 +90,7 @@ Een ander interessant aspect dat aangehaald werd was het veilig versturen van sm
 <img width="38%" src="/images/focus group tafel.jpg">
 </p>
 
-#### Benchmarking
+#### Benchmarking (N=10)
 Om de markt te analyseren maken we gebruik van benchmarking, heel wat designkeuzes zijn vaak al succesvol opgelost door anderen. Je hoeft niet alles opnieuw te onderzoeken, maar door bestaande oplossingen aandachtig te bestuderen kunnen we focussen op meer belangrijke onbekende factoren.
 
 Het probleem werd opgesplitst in twee fundamentele deelproblemen. Hoe kunnen we informatie weergeven en hoe kunnen we bepaalde functies bedienen? Voor beide werden de voor- en nadelen op een rijtje gezet. Daarna werd alles samengegoten in een overzichtelijke *problem-solution* matrix.
@@ -123,7 +123,7 @@ Tot een conceptueel ontwerp komen.
 - gebruikersinterviews
 - gebruikerstesten
 ### Resultaten
-#### Dial
+#### Dial (N=6)
 Door het uitvoeren van concepttesten kunnen we ons concept evalueren met echte gebruikers. Hierdoor kunnen we ook het gedrag van de gebruiker tijdens de interactie observeren en analyseren.
 
 Het doel van deze concepttest is een conceptueel ontwerp te hebben voor onze *dial*. Welke grootte? Welke vorm? Welk materiaal? Na een korte introductie gaven we elke deelnemer een stuk klei/plasticine. We gaven hen de opdracht om hun ideale *dial* te ontwerpen en hierbij te variëren in vorm, grootte, afwerking... Hierbij moest de focus op het praktische aspect liggen, minder op het esthetische. Nadat elke deelnemer zijn of haar ideale *dial* gemaakt had gingen we over naar het tweede deel van de test. We ontwikkelden drie *sensorial boards*: 6 verschillende groottes, 9 vormvarianten en 6 verschillende materialen. Elke deelnemer kreeg de kans elk bord te exploreren door aan de verschillende modellen te voelen. Per bord moesten de deelnemers hun voorkeur weergeven in een top 3. Alle ruwe data van deze testen werd verzameld door middel van gebruikersformulieren.
@@ -154,7 +154,7 @@ Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van 
   <img src="/images/user test dial matrix materials.png" width="32%"/>
 </p>
 
-#### User interface
+#### User interface (N=5)
 Uit de eindscores van de eerste gebruikerstesten konden we met de meest ideale dialvorm opnieuw naar de gebruiker trekken. Deze keer werd bewust gekozen voor nieuwe testpersonen. Door het kiezen van nieuwe testpersonen kunnen er nieuwe visies ontstaan en kunnen we al dan niet bevestigd krijgen of de gebruiker ons concept begrijpt.
 Met deze test richten we ons op de conceptuele interactie van de dialfuncties en een interface. In het tweede semester zetten we deze resultaten om in een functioneel en interactief ontwerp.
 We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunststofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de *dial*.
