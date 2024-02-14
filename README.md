@@ -94,6 +94,6 @@ Het proces van het maken van het prototype is niet zonder uitdagingen geweest. W
 De kritische reflectie op ons proces benadrukt het belang van een meer holistische brainstorming, waarbij diverse perspectieven en mogelijke uitdagingen vanaf het begin worden overwogen. Daarnaast onderstreept het de noodzaak om tijdig te beginnen met het ontwikkelen van een eenvoudig prototype, zodat potentiële problemen en kansen vroegtijdig aan het licht komen. Deze inzichten zullen dienen als waardevolle lessen voor toekomstige projecten en iteraties.
 
 ## Bronnen
-Meire, J. & Kind & Samenleving. (2020). *Het grote buitenspeelonderzoek.* https://k.s.be/medialibrary/purl/nl/6626949/Het%20grote%20buitenspeelonderzoek.pdf
+Meire, J. & Kind & Samenleving. (2020). *Het grote buitenspeelonderzoek.* https://k-s.be/medialibrary/purl/nl/6626949/Het%20grote%20buitenspeelonderzoek.pdf
 
 Kantar Public & Jantje Beton. (2022). *Onderzoek buitenspelen 2022.* https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2022-62a06183eb380.pdf
