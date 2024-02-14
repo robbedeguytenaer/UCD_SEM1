@@ -6,13 +6,13 @@
 *2023 - 2024*
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+In de hedendaagse samenleving spenderen de meeste kinderen meer tijd binnenshuis dan buitenshuis, wat kan leiden tot diverse gezondheidsproblemen zoals bijziendheid, overgewicht, verminderde motorische ontwikkeling, rug-, nek- en schouderklachten, slaapproblemen en psychosociale problemen. Ons onderzoek, gebaseerd op interviews met de doelgroep, online bronnen en nieuwsartikelen die deze kwesties belichten, bevestigen deze zorgwekkende trends.
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+Als reactie hierop hebben we een innovatieve oplossing bedacht: de ontwikkeling van een digitale helm die het buiten spelen aantrekkelijker maakt en kinderen motiveert om meer tijd in de buitenlucht door te brengen. Deze helm is ontworpen met als doel niet alleen de fysieke activiteit te bevorderen, maar ook het plezier en de interesse van kinderen in buitenspelen te vergroten. 
+<p>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/helm_render.png?raw=true">
+</p>
+
 
 ## Introductie
 In toenemende mate blijkt dat kinderen minder tijd doorbrengen in de buitenomgeving. Volgens de bevindingen van 'Het Grote Buitenspeelonderzoek' uit 2019 is er een afname van 37% in buitenspelactiviteiten onder kinderen ten opzichte van 2008 (Meire & Kind & Samenleving, 2020). Deze ontwikkeling kan voornamelijk worden toegeschreven aan de digitalisering van binnenspeelgoed, terwijl buitenspeelgoed deze trend niet heeft gevolgd. Het digitaliseren van speelgoed voor binnenshuis oefent een grotere aantrekkingskracht uit op kinderen dan het traditionele speelgoed, wat resulteert in een toenemende neiging om binnen te blijven en minder buiten te spelen.
