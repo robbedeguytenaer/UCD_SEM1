@@ -111,9 +111,10 @@ HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst wor
 **Hoe kunnen we een *dial* en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg terwijl ze interageren met het dashboard?**
 
 > [!IMPORTANT]
-> - DR1
-> - DR2
-> - ...
+> Uit de discoveryfase halen we onze eerste *design requirements*.
+>  - Het interface moet personaliseerbaar zijn.
+> - Alle belangrijke functies moeten bedienbaar zijn zonder dat de ogen van de baan dienen af te wijken.
+> - Er is haptische feedback bij het bedienen van functies.
 
 ## Definition
 In de definitiefase geven we vorm aan de oplossingen die we dit jaar zullen uitwerken. Gebruikmakend van het eerder gedefinieerde probleem, onderzoeken we mogelijke oplossingen om zo een weloverwogen conceptkeuze te maken. Dit concept dient dan als basis voor verdere ontwikkeling in het tweede semester.
