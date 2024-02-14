@@ -74,6 +74,10 @@ Deze optie viel ook in de smaak. Het aantikken van de lamp in actie is leuk en s
 
 Dit is de veiligste van de vier. Doordat er hier niet met ‘slaan’ of ‘tikken’ of ‘trekken’ wordt gewerkt, en de lamp gewoon moet worden vastgenomen om de speler uit te schakelen, zullen bij dit systeem de minste ongevallen gebeuren. Het systeem is redelijk simpel te maken. De lamp en de helm blijven aan elkaar met een magneet die sterk genoeg is om ze aan elkaar te houden bij actie, maar ook zwak genoeg is om ze er makkelijk van te trekken. Het enige dat bij dit systeem een probleem is, is dat de helm uit meerdere delen bestaat. Er moet dan een oplossing worden gevonden op wat er gebeurt met de lamp wanneer deze van een helm wordt getrokken.
 
+<p>
+  <img src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/06c4d0a9de673ebbd93ce1be9d94eaf7d0a1cb19/beeldmateriaal/buitenspelen_grafiek.png"/>
+</p>
+
 ### Conclusies & implicaties
 Er werden meerdere concepten besproken, elk met hun eigen voor- en nadelen. De twee testpersonen gaven eerlijk aan wat ze dachten, en wij hebben het in een samenvatting gegoten met aanvullende conclusies. 
 Een belangrijke factor is de veiligheid. We willen iets maken dat kinderen leuk vinden om te spelen, en waar er zo weinig mogelijk risico is op gevaar. Bij concept (1) en (2) is de kans groot dat kinderen zich gaan bezeren wanneer ze even onvoorzichtig zijn en te veel opgaan in het spel. Zelfs met pompsystemen om de schok te verminderen bij een slag op de knop of trek aan de staart, is de schok nooit helemaal gedempt. Concept (3) en (4) daarentegen zijn wel veilig uit te voeren wanneer het systeem geoptimaliseerd wordt. Daarom besloten we met deze twee verder te gaan, en de minpuntjes besproken in ‘Resultaten’ aan te pakken in de volgende fase. De lampen per concept staan nog niet vast. 
