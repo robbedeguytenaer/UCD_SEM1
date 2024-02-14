@@ -15,8 +15,8 @@ Onze oplossing is gebaseerd op de magnetische *Surface Dial* van Microsoft. Zo'n
 In tegenstelling tot de standaard fysieke knoppen kun je met zo'n *dial* toch een breed scala aan functies gaan bedienen, met behoud van de tactiele feedback. Ook het touchscreen is er nog steeds voor wanneer men stilstaat of voor de passagier.
 
 <p>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/343d123c-7247-4bda-b35b-b851a2511b5b" width="49%"/>
-  <img src="https://github.com/korneelverraes/tussentijds-rapport/assets/88773280/6388c215-353b-473f-b0ad-b9d9dbf4852b" width="49%"/>
+  <img src="/images/concept render zij.png" width="49%"/>
+  <img src="/images/concept render close-up.png" width="49%"/>
 </p>
 
 ## Introductie
