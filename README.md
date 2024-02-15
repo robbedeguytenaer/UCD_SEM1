@@ -94,6 +94,10 @@ De test werd uitgevoerd bij twee broers van Robbe, respectievelijk 7 en 12 jaar 
 ### Resultaten
 We zullen hier de resultaten bespreken van de test, per initieel idee (puntjes 1-4 in het deel ‘doelstellingen’). In onderstaande resultaten wordt soms gerefereerd naar lampen A, B, C, D en E die in Figuur 4 te vinden zijn.
 
+<p>
+  <img src="beeldmateriaal/verschillende lampen 2.jpg"/>
+</p>
+
 **1. Uitschakelen door drukken op de lamp bovenaan**
 
 Dit was meteen een van de favorieten omwille van het uitzicht, maar er waren enkele bedenkingen. Zo is het mogelijk dat kinderen te hard op de lamp gaan slaan waardoor de persoon die de helm draagt zich bezeerd. Dit kan grotendeels opgelost worden door een veersysteem, maar niet helemaal. Verder is het wel een goed systeem om uitgeschakeld te worden, en makkelijk te realiseren. Voor deze toepassing kunnen lampen A, B en E worden gebruikt, en ze zouden bovenaan of achteraan kunnen worden geplaatst.
