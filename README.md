@@ -83,7 +83,7 @@ We dachten na over vier basisconcepten omtrent uitschakeling van een speler:
 
 Deze concepten worden visueel weergegeven in Figuur 3. Elk concept heeft zijn voor- en nadelen. Door ze aan derden voor te leggen, streven we naar een objectief oordeel over welke methode mogelijk het beste is.
 
-<p>
+<p align="center">
   <img width="50%" src="beeldmateriaal/IMG_3678.jpg"/>
 </p>
 
