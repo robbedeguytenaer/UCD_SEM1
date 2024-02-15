@@ -38,7 +38,7 @@ Gamification, met zijn focus op competitie, samenwerking en beloning, biedt de m
 In de initiële fase van ons project werden ons drie verschillende projecten voorgelegd waaruit we de opdracht "Nature, play & tech" hebben gekozen. Gedurende het resterende jaar zullen we ons hierop concentreren. Na het ontvangen van de opdracht hebben we een onderzoek gedaan naar het bestaande probleem en de bijbehorende oorzaken. We hebben daarbij gebruikgemaakt van artikelen en onderzoeken op het internet verder werd er ook gebruikgemaakt van methoden zoals de root-cause analysis en het WWWWWH-model.
 
 <p align="center">
-<img width="65%" src="beeldmateriaal/WWWWWH.png"/>
+<img width="55%" src="beeldmateriaal/WWWWWH.png"/>
 </p>
 
 Vervolgens hebben we strategieën gebruikt zoals benchmarking, problem-solution matrix en gebruikersonderzoek om mogelijke oplossingen voor het geïdentificeerde probleem te verkennen. Tijdens de ideegeneratie fase hebben we gebrainstormd en een selectie gemaakt uit de vele ideeën. Dit leidde tot het bepalen van één specifiek concept waaraan we verder zouden werken, namelijk 'KampKode'.
