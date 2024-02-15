@@ -23,13 +23,16 @@ In toenemende mate blijkt dat kinderen minder tijd doorbrengen in de buitenomgev
 > "Kinderen spelen steeds minder in hun woonomgeving. Er speelden vorige zomer 37% minder kinderen op straten, op pleinen en in parken dan in 2008. Meisjes vanaf 9 jaar spelen opvallend weinig buiten, en in de stedelijke wijken spelen nog maar half zoveel kinderen als in 2008."
 
 Deze ontwikkeling kan voornamelijk worden toegeschreven aan de digitalisering van binnenspeelgoed, terwijl buitenspeelgoed deze trend niet heeft gevolgd. Het digitaliseren van speelgoed voor binnenshuis oefent een grotere aantrekkingskracht uit op kinderen dan het traditionele speelgoed, wat resulteert in een toenemende neiging om binnen te blijven en minder buiten te spelen.
-Recentelijk onderzoek in Nederland ondersteunt deze bevindingen en benadrukt dat de voornaamste reden voor het verminderde buitenspelen van kinderen te wijten is aan de digitale speelmogelijkheden binnenshuis, met name gericht op gaming en sociale media (Kantar Public & Jantje Beton, 2022). Het is echter bekend dat buitenspelen van aanzienlijk belang is voor de gezonde ontwikkeling van een kind. Onvoldoende blootstelling aan buitenspel kan talloze nadelige gevolgen hebben voor het volwassen leven van een individu.
+Recentelijk onderzoek in Nederland ondersteunt deze bevindingen en benadrukt dat de voornaamste reden voor het verminderde buitenspelen van kinderen te wijten is aan de digitale speelmogelijkheden binnenshuis, met name gericht op gaming en sociale media (Kantar Public & Jantje Beton, 2022). 
+
+<p align="center">
+<img width="65%" src="beeldmateriaal/buitenspelen_grafiek.png"/>
+</p>
+
+Het is echter bekend dat buitenspelen van aanzienlijk belang is voor de gezonde ontwikkeling van een kind. Onvoldoende blootstelling aan buitenspel kan talloze nadelige gevolgen hebben voor het volwassen leven van een individu.
 In dit kader streven wij ernaar een bijdrage te leveren aan het stimuleren van buitenspelactiviteiten, met als doel deze activiteiten even aantrekkelijk, zo niet aantrekkelijker, te maken voor kinderen. Onze benadering omvat de ontwikkeling van een innovatief product, met de eigenschap zowel de interesse van kinderen te wekken als niet te zeer af te leiden. Hierbij maken wij gebruik van het concept 'gamification', waarbij elementen die digitale games aantrekkelijk maken, worden geïntegreerd in niet-digitale activiteiten, zoals buitenspelen.
 Gamification, met zijn focus op competitie, samenwerking en beloning, biedt de mogelijkheid om buitenspelen aantrekkelijker te maken voor kinderen die zijn opgegroeid met deze elementen als integraal onderdeel van hun dagelijkse leven. Met andere woorden is gamification een belangrijk aspect van producten voor kinderen die opgegroeid zijn met digitale games en sociale media. Onze missie is om deze elementen op een doordachte manier te implementeren in een product, zodat kinderen worden gestimuleerd om vaker buiten te spelen, en daarmee een gezonde ontwikkeling te bevorderen.
 
-<p align="center">
-<img width="50%" src="beeldmateriaal/buitenspelen_grafiek.png"/>
-</p>
 
 ## Methdologie
 In de initiële fase van ons project werden ons drie verschillende projecten voorgelegd waaruit we de opdracht "Nature, play & tech" hebben gekozen. Gedurende het resterende jaar zullen we ons hierop concentreren. Na het ontvangen van de opdracht hebben we een onderzoek gedaan naar het bestaande probleem en de bijbehorende oorzaken. We hebben daarbij gebruikgemaakt van artikelen en onderzoeken op het internet verder werd er ook gebruikgemaakt van methoden zoals de root-cause analysis en het WWWWWH-model.
