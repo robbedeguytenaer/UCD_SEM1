@@ -87,8 +87,10 @@ Voor we als team verder gingen had Warre ook al een focusgroep georganiseerd. Di
 Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de *dial*.
 
 <p>
+<center>
 <img width="60%" src="/images/focus group.png">
 <img width="38%" src="/images/focus group tafel.jpg">
+</center>
 </p>
 
 #### Benchmarking (N=10)
