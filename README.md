@@ -48,6 +48,9 @@ Vervolgens zijn we overgegaan naar de volgende fase, waarin we een eerste protot
 
 Bij het afronden van het eerste semester hebben we een eerste verslag opgesteld, waarin we onze voortgang tot dan toe hebben gedocumenteerd en onze bevindingen hebben gepresenteerd. Deze verslaglegging geeft een overzicht van de stappen die we hebben genomen en de ontwikkeling van ons project tot dusver.
 
+<p align="center">
+<img width="65%" src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/Schermafbeelding%202024-02-16%20090415.png?raw=true"/>
+</p>
 
 ## Discovery
 
@@ -61,9 +64,13 @@ Ons voornaamste doel is het creëren van het eerste prototype en het testen van 
 
 ### Resultaten
 De discovery fase startte met een grondige analyse van onze doelgroep, waarbij we gebruikmaken van knowledge templates zoals het opstellen van een persona en het WWWWWH-model. Hierbij lag de focus op het begrijpen van het gedrag en de interesses van de doelgroep.
-
+<p align="center">
+<img width="48%" src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/Schermafbeelding%202024-02-14%20161846.png?raw=true"/>
+</p>
 Vervolgens werd het probleem nader onderzocht, waarbij we de mogelijke redenen en gevolgen ervan analyseerden door middel van literatuuronderzoek. We doorzochten diverse artikelen en onderzoeken online, waaruit bleek dat het probleem expliciet aangepakt moet worden om kinderen aan te moedigen om buiten te spelen.
-
+<p align="center">
+<img width="48%" src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/Schermafbeelding%202024-02-14%20161908.png?raw=true"/>
+</p>
 Het bestaande marktonderzoek werd uitgevoerd met behulp van benchmarking, waarbij we de positieve en negatieve aspecten van reeds bestaande ontwerpen onderzochten. Door gebruik te maken van een problem-solution matrix brachten we de problemen en bestaande oplossingen in kaart.
 
 Het eerste prototype bestaat uit een helm met een lamp gemaakt uit schuim bovenop en een staart aan de achterkant. Dit tastbare beeld geeft ons waardevolle inzichten in hoe deze elementen zich in de praktijk manifesteren. We hebben succesvol een led aan de helm bevestigd, aangestuurd door Arduino. Een drukknop onder de schuimen lamp activeert de led bij indrukken, terwijl het trekken aan de staart hetzelfde effect heeft. Deze positieve testresultaten markeren een vooruitgang richting ons doel en bieden waardevolle informatie voor verdere optimalisatie van het ontwerp en de functionaliteiten.
