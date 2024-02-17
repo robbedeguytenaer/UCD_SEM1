@@ -69,7 +69,7 @@ De discovery fase startte met een grondige analyse van onze doelgroep, waarbij w
 </p>
 Vervolgens werd het probleem nader onderzocht, waarbij we de mogelijke redenen en gevolgen ervan analyseerden door middel van literatuuronderzoek. We doorzochten diverse artikelen en onderzoeken online, waaruit bleek dat het probleem expliciet aangepakt moet worden om kinderen aan te moedigen om buiten te spelen.
 <p align="center">
-<img width="48%" src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/Schermafbeelding%202024-02-14%20161908.png?raw=true"/>
+<img width="48%" src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/buitenspeelgedrag.png?raw=true"/>
 </p>
 Het bestaande marktonderzoek werd uitgevoerd met behulp van benchmarking, waarbij we de positieve en negatieve aspecten van reeds bestaande ontwerpen onderzochten. Door gebruik te maken van een problem-solution matrix brachten we de problemen en bestaande oplossingen in kaart.
 
