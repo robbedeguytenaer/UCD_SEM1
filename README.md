@@ -65,7 +65,7 @@ Ons voornaamste doel is het creëren van het eerste prototype en het testen van 
 ### Resultaten
 De discovery fase startte met een grondige analyse van onze doelgroep, waarbij we gebruikmaken van knowledge templates zoals het opstellen van een persona en het WWWWWH-model. Hierbij lag de focus op het begrijpen van het gedrag en de interesses van de doelgroep.
 <p align="center">
-<img width="48%" src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/Schermafbeelding%202024-02-14%20161846.png?raw=true"/>
+<img width="50%" src="https://github.com/robbedeguytenaer/UCD_SEM1/blob/main/beeldmateriaal/persona.jpg?raw=true"/>
 </p>
 Vervolgens werd het probleem nader onderzocht, waarbij we de mogelijke redenen en gevolgen ervan analyseerden door middel van literatuuronderzoek. We doorzochten diverse artikelen en onderzoeken online, waaruit bleek dat het probleem expliciet aangepakt moet worden om kinderen aan te moedigen om buiten te spelen.
 <p align="center">
