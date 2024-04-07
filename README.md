@@ -1,5 +1,5 @@
-# KampKode: deelopdracht 2
-*Nature & Play: kampkode* 
+# deelopdracht 2: definition
+*Nature, Play & Tech: Kampkode* 
 
 *Projectteam: Robbe De Guytenaer; Kai Cherchye*
 
